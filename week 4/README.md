@@ -1,9 +1,7 @@
 # AEWS Study
 가시다님의 AEWS 스터디에 참여하게 되었습니다.
 
-1주차로 Amazon EKS 설치에 대해서 스터디를 진행하였으며, 기본으로 CloudFormation으로 설치를 진행하였습니다.
-
-저는 CLoudFormation으로 설치 진행을 하지 않고 Terraform으로 설치를 진행해 보려 합니다.
+기본으로 CloudFormation으로 설치를 진행하지만, cloudFormation으로 설치 진행을 하지 않고 Terraform으로 설치를 진행해 보려 합니다.
 
 테라폼 파일에 대한 간단한 설명은 다음과 같습니다.
 
